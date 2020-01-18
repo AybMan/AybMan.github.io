@@ -7,11 +7,11 @@ body {
 }
 
 #header{
-  height: 100vh;
-  min-height: 500px;
-  background-image: url('../img/camii.jpg');
+  height: 90vh;
+  /* min-height: 500px; */
+  background-image: url('../img/wallpaper.jpg');
   background-size: cover;
-  background-position:center;
+  /* background-position:center; */
   background-repeat: no-repeat;
 }
 
