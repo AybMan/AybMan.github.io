@@ -6,6 +6,10 @@ body {
   text-align: center;
 }
 
+.navbar{
+  transition: none;
+}
+
 #header{
   height: 100vh;
   background-image: url('../img/wallpaper.jpg');
